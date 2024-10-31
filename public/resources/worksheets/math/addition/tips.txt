@@ -1,0 +1,12 @@
+Tips for Solving Multi-Digit Addition Questions:
+
+1. Align Numbers: Make sure to write the numbers in a column, aligning the digits by place value (units, tens, hundreds, etc.).
+2. Start from the Right: Always start adding from the rightmost column (units place) and move towards the left.
+3. Carry Over: If a column adds up to a two-digit number, write down the units digit and carry over the tens digit to the next column.
+4. Add Carried Numbers: Remember to add any numbers carried over from previous columns.
+5. Double-check: Go back and double-check each column to make sure the addition was done correctly.
+6. Practice Mental Math: Try adding smaller numbers mentally to build speed and confidence.
+7. Break It Down: If a problem looks complicated, break it down into smaller steps or add in parts.
+8. Use Estimation: Before solving, estimate the answer by rounding numbers to check if your final answer is reasonable.
+9. Write Neatly: Keeping your numbers lined up neatly helps avoid mistakes.
+10. Take Your Time: Accuracy is more important than speed when you're practicing.
